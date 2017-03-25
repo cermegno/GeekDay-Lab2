@@ -1,4 +1,4 @@
-# step2
+# GeekDay Lab2
 This is a more advanced version than Lab 1. It introduces a REDIS backend and its starting to resemble the real thing.
 
 # About GEEK-DAY
